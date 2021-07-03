@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace VariablesExercise
+namespace VariablesExercise1
 {
-    class Program
+    class Program : ProgramBase
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             int age = 45;
             bool married = true;
